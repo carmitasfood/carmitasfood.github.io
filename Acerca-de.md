@@ -16,7 +16,7 @@ Realizamos todo tipo de tortas, bocaditos y sobre todo los deliciosos dulces man
 
 Contamos con nuestros productos que son vendidos en el local Café Viajero en el Terminal Terrestre de Guayaquil 
 
-Hacemos entregas a domicilio, solo llámanos al 0988803717 y le dejaremos su encargo en la puerta de su hogar :) 
+Hacemos entregas a domicilio, solo llámanos al 0988803717 y le dejaremos su encargo en la puerta de su hogar 
 
 ### Contact me
 
