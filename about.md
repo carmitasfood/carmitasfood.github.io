@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de 
-permalink: /Acerca de/
+permalink: /About/
 ---
 
 Aqui les brindo más información sobre mi negocio 
