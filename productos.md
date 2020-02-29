@@ -4,7 +4,7 @@ title: Nuestros Productos
 permalink: /productos/
 ---
 
-__Volteado de Piña__
+*__Volteado de Piña__
 
 ![_config.yml]({{ site.baseurl }}/images/piña.jpg)
 
