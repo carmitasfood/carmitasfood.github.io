@@ -6,7 +6,7 @@ permalink: /productos/
 
 ___Volteado de Piña___
 
-<center><img src="https://www.google.com.ec/url?sa=i&url=https%3A%2F%2Frecetasamericanas.com%2F2012%2F07%2F07%2Fbizcocho-de-pina-al-reves%2F&psig=AOvVaw0BWY_KPTZ0ADaWbCHhZcFY&ust=1583097082282000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLicvrbW9-cCFQAAAAAdAAAAABAM" width="100" height="100"></center>
+<img src="https://www.recetario-cocina.com/archivosbd/volteado-de-platano-con-caramelo.jpg" width="100" height="100" align="center">
 
 ___Descripción:___ _Es un cake de vainilla el cual lleva encima pedazos de piña bañados en caramelo._  
 
@@ -14,7 +14,7 @@ ___Descripción:___ _Es un cake de vainilla el cual lleva encima pedazos de piñ
 
 ___Torta Mojada de Chocolate___
 
-<center><img src="" width="100" height="100"></center> 
+<img src="https://i.pinimg.com/originals/20/09/b4/2009b4cc4c19d3af9d34881440d24398.jpg" width="100" height="100" align="center">
 
 ___Descripción:___ _Es un cake de chocolate bañado en tres leches de chocolate, adicional se lo decora con cerezas._ 
 
