@@ -58,5 +58,14 @@ ___Descripción:___ _Sin duda alguna una buena opción para llevar a tus fiestas
 
 ___Bolitas de Coco___
 
-<img src="" width="250" height="250">
+<img src="https://3.bp.blogspot.com/-S8FFMVQFfMw/WKXnaSzf8AI/AAAAAAAAEQk/LUnGa0Pru_QsOZvhy9LkpumgijHdOPc_QCLcB/s1600/IMG_20170204_140908.jpg" width="250" height="250">
 
+___Descripción:___ _Un dulce relleno de leche y coco ¡¡lo ideal para una tarde entre amigos!!
+
+
+
+___Tartaletas___
+
+<img src="https://www.recetasdemama.es/wp-content/uploads/2012/05/Tartaletas-de-masa-quebrada.jpg" width="250" height="250"> 
+
+___Descripción:___ _Este delicioso masa puede ser acompañada con cualquier ensalada, normalmente se las hace de pollo (osea saladas) pero hay personas que las desean dulces._
