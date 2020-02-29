@@ -38,6 +38,8 @@ ___Torta en forma de Libro Abierto___
 
 ___Descripción:___ _Torta en forma de libro ideal para graduaciones, primeras comuniones o confirmaciones. Opcionalmente se le puede poner un adorno en la parte superior de la torta._
 
+
+
 ___Dulces de leche en forma de Frutas___
 
 <img src="https://i.pinimg.com/originals/7c/93/23/7c93239af8e8242ea11aa869c59b03dd.jpg" width="250" height="250">
@@ -46,4 +48,15 @@ ___Descripción:___ _Bocaditos dulces ideales para cualquier fiesta entre amigos
 
 
 
+___Dulces Manabas___
+
+<img src="https://www.eluniverso.com/sites/default/files/styles/powgallery_1024/public/fotos/2013/08/dulces.jpg?itok=sKMy-3G6" width=250" height="250"> 
+                                   
+___Descripción:___ _Sin duda alguna una buena opción para llevar a tus fiestas familiares son los deliciosos dulces manabas. Lo mejor de todo es que son variados y puedes disfrutarlos todos._                   
+                                   
+
+
+___Bolitas de Coco___
+
+<img src="" width="250" height="250">
 
