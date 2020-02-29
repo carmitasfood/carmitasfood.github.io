@@ -34,7 +34,7 @@ ___Torta de Novia___
 <img src="https://2.bp.blogspot.com/-BpR7EltDqq8/VPNPspSmfPI/AAAAAAAAAGc/s8aJUPRU4L8/s1600/IMG_0115.JPG" width="250" height="250">
 </div>
 
-___Descripción:___ _Cake con nuez, pasas, almendras, frutas confitadas, higo, ciruelas pasas y ron_
+___Descripción:___ _Cake con nuez, pasas, almendras, frutas confitadas, higo, ciruelas pasas y ron._
 
 ___Observación:___ _Esta torta puede ser para cualquier evento (matrimonio, bautizos, graduaciones, entre otros). Generalmente se presenta ya cortada en sus respectiva caja en caso de solicitarlo._ 
 
@@ -56,7 +56,7 @@ ___Dulces de leche en forma de Frutas___
 <img src="https://i.pinimg.com/originals/7c/93/23/7c93239af8e8242ea11aa869c59b03dd.jpg" width="250" height="250">
 </div>
 
-___Descripción:___ _Bocaditos dulces ideales para cualquier fiesta entre amigos, familia u otro evento social_
+___Descripción:___ _Bocaditos dulces ideales para cualquier fiesta entre amigos, familia u otro evento social._
 
 
 
