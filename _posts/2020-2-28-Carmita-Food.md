@@ -7,7 +7,7 @@ A toda nuestra distinguida clientela y público en general ponemos a su disposic
 
 ¡¡¡¡No te quedes sin probarlos!!!!
 
-![_config.yml]({{ site.baseurl }}/images/28167339_277075616160539_7965527811311166487_n.jpg)
+![_config.yml]({{ site.baseurl }}/images/WhatsApp Image 2020-02-29 at 1.41.57 PM.jpeg)
 
 
 
