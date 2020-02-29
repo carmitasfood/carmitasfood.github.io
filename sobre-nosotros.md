@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre Nosotros
-permalink: /about/
+permalink: /sobre-nosotros/
 ---
 
 Aqui les brindo más información sobre mi negocio 
