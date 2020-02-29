@@ -12,12 +12,12 @@ https://www.google.com/maps/place/Gral+G%C3%B3mez,+Guayaquil/@-2.202346,-79.9118
 
 
 
-### N&uacutemeros de Contacto
+### Números de Contacto
 
 * 0988803717
 * (04)2374979
 
 ### Redes Sociales
 
-* Facebook: Carmen Basurto Rodr&iacuteguez 
+* Facebook: Carmen Basurto Rodríguez 
 
