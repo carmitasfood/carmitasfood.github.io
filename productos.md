@@ -22,7 +22,7 @@ ___Observación:___ _Puede pedir la torta entera o cortada individualmente._
 
 
 
-___Torta de Novia
+___Torta de Novia___
 
 ![_config.yml]({{ site.baseurl }}/images/novia.jpg)
 
