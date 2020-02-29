@@ -21,8 +21,14 @@ ___Descripción:___ _Es un cake de chocolate bañado en tres leches de chocolate
 ___Observación:___ _Puede pedir la torta entera o cortada individualmente._
 
 
-![_config.yml]({{ site.baseurl }}/images/WhatsApp Image 2020-02-29 at 1.41.57 PM.jpeg)
 
+___Torta de Novia
+
+![_config.yml]({{ site.baseurl }}/images/novia.jpg)
+
+___Descripción:___ _Cake con nuez, pasas, almendras, frutas confitadas, higo, ciruelas pasas y ron_
+
+___Observación:___ _Esta torta puede ser para cualquier evento (matrimonio, bautizos, graduaciones, entre otros). Generalmente se presenta ya cortada en sus respectiva caja en caso de solicitarlo._ 
 
 ![_config.yml]({{ site.baseurl }}/images/WhatsApp Image 2020-02-29 at 1.41.57 PM.jpeg)
 
