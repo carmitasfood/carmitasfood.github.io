@@ -6,7 +6,7 @@ permalink: /productos/
 
 ___Volteado de Piña___
 
-<center>![_config.yml]({{ site.baseurl }}/images/piña.jpg)</center>
+![_config.yml]({{ site.baseurl }}/images/piña.jpg)
 
 ___Descripción:___ _Es un cake de vainilla el cual lleva encima pedazos de piña bañados en caramelo._  
 
@@ -14,7 +14,7 @@ ___Descripción:___ _Es un cake de vainilla el cual lleva encima pedazos de piñ
 
 ___Torta Mojada de Chocolate___
 
-<center>![_config.yml]({{ site.baseurl }}/images/chocolate.jpg)</center>
+![_config.yml]({{ site.baseurl }}/images/chocolate.jpg)
 
 ___Descripción:___ _Es un cake de chocolate bañado en tres leches de chocolate, adicional se lo decora con cerezas._ 
 
