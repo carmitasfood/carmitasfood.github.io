@@ -17,5 +17,5 @@ Quedamos ubicados en Callejón Gnral. Gómez No121 e/ Federico Godín y Otavalo 
 
 ### Redes Sociales
 
-* Facebook: Carmen Basurto Rodríguez 
+___Facebook:___ <a href="#">Carmen Basurto Rodríguez</a> 
 
