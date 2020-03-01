@@ -43,7 +43,7 @@ ___Observación:___ _Esta torta puede ser para cualquier evento (matrimonio, bau
 ___Torta en forma de Libro Abierto___
 
 <div align="center">
-<img src="https://lh3.googleusercontent.com/NyCnoj6M1uG58dT8h9I2Eq81SoX6TkK4AuU9FU_F-XJ_hJ9NHhkTMR6ero0rq6ab-cBcdhaYcYUR7DfBrbH-LcQNogygjPfnHIYApnu19SeisRLtMzwzSl2va-CVm4wGuXk8lf9620y7xJNAz_-1f2ROGpJ3o3xEAHaYgH9Uxpt0WmCuKAP8xMxwvJcYPWWdkJOs-2401hBZsZwmfQHoPFyxrsX4MCO5Z7HtQHbplgF5_t7-dFYxQvjwbI4maqiWTm5toXF0ABYHHbb0IqphAST9j-OWclIR2BwS_Nh_fQacR0fIYCSQGPtnHPDWx8Fd5ikOR3eghsp8h98AeZxBC5Eje5MlbELs0izKXLa1BL9WuZw8--_Djsb7UCbuY9hpQf8RQwxayM4TMBEPUog8y_K_-xVQrzkwp-cKC1ouusAQGxKGL0NRrlrOnN7wdxQMLhia3spDnwMkfF_Gzr31tG7At-Oa0DmdoVY7o5vznNRyGKITRKp3AymxOOlXYtbh0rJ3qxxTpMJUDJOmJP2tZhcSOMaIA38WClqkg4DBdRm4UfGJHtUnkUV0iQFZQAjnvGGmxQHkUFPcDMWGlK3m6x9zFFK6Y6PTP4LhkmmfrZP-TG8kH-UTwXMyA-wJFS1SiIG17C_SdFT1VCE7dWFy6BILPS91j0GR7kze6a4hVIIBIFikQx4evhQ=w1024-h615-no" width="250" height="250">
+![_config.yml]({{ site.baseurl }}/images/)
 </div>
 
 ___Descripción:___ _Torta en forma de libro ideal para graduaciones, primeras comuniones o confirmaciones. Opcionalmente se le puede poner un adorno en la parte superior de la torta._
