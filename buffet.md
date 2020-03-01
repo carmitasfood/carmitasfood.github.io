@@ -9,4 +9,4 @@ permalink: /buffet/
 
 
 
-<iframe src="https://drive.google.com/open?id=17BsA4itcqwxaRi35q48C1mBGASFCYBF2" width="650" height="650"></iframe>
+<iframe src="https://drive.google.com/file/d/17BsA4itcqwxaRi35q48C1mBGASFCYBF2/view?usp=sharing" width="650" height="650"></iframe>
