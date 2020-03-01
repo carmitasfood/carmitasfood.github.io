@@ -12,10 +12,11 @@ Quedamos ubicados en Callejón Gnral. Gómez No121 e/ Federico Godín y Otavalo 
 
 ### Números de Contacto
 
-* 0988803717
-* (04)2374979
+___Celular:___ 0988803717
+___Teléfono:___ (04)2374979
 
 ### Redes Sociales
 
-___Facebook:___ <a href="#">Carmen Basurto Rodríguez</a> 
+___Facebook:___ _Carmen Basurto Rodríguez_
+
 
