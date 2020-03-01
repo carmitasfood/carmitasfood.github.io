@@ -42,9 +42,7 @@ ___Observación:___ _Esta torta puede ser para cualquier evento (matrimonio, bau
 
 ___Torta en forma de Libro Abierto___
 
-<div align="center">
 ![_config.yml]({{ site.baseurl }}/images/IMG-20180308-WA0013.jpg)
-</div>
 
 ___Descripción:___ _Torta en forma de libro ideal para graduaciones, primeras comuniones o confirmaciones. Opcionalmente se le puede poner un adorno en la parte superior de la torta._
 
