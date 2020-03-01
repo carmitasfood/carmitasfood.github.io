@@ -70,7 +70,7 @@ p {
 
 a {
   color: $blue;
-  text-decoration: none;
+  text-decoration: $white;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
@@ -226,7 +226,7 @@ nav {
   a {
     margin-left: 20px;
     color: $blue;
-    text-align: right;
+    text-align: center;
     font-weight: 300;
     letter-spacing: 1px;
 
