@@ -7,4 +7,6 @@ permalink: /buffet/
 
 ### Ponemos a su conocimiento los buffet para todo evento social 
 
-<center><iframe src="https://drive.google.com/file/d/17BsA4itcqwxaRi35q48C1mBGASFCYBF2/view?usp=sharing" width="450" height="450"></iframe></center>
+<div align="center">
+<img src="" width="250" height="250">
+</div>
