@@ -76,7 +76,7 @@ ___Bolitas de Coco___
 <img src="https://3.bp.blogspot.com/-S8FFMVQFfMw/WKXnaSzf8AI/AAAAAAAAEQk/LUnGa0Pru_QsOZvhy9LkpumgijHdOPc_QCLcB/s1600/IMG_20170204_140908.jpg" width="250" height="250">
 </div>
 
-___Descripción:___ _Un dulce relleno de leche y coco ¡¡lo ideal para una tarde entre amigos!!
+___Descripción:___ _Un dulce relleno de leche y coco ¡¡lo ideal para una tarde entre amigos!!_
 
 
 
