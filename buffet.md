@@ -9,4 +9,4 @@ permalink: /buffet/
 
 
 
-<iframe src="file:///C:/Users/Familiar/Downloads/COMBOS%20DULCES%20&%20BUFFET%20DICARO%20-%20MENU.pdf" width="650" height="650"></iframe>
+<iframe src=""></iframe>
